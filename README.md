@@ -34,3 +34,7 @@ kubectl create -f mutate.yaml to create the  MutatingWebhookConfiguration
 kubectl create -f gcr.yaml   you will find the image be replaced automatically
 
 ````
+
+##TODO
+Add Dockerfile
+Add support for glide or go module
